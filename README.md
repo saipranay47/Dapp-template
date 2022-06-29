@@ -27,4 +27,4 @@ Now, simply rename sample-script.js to deploy.js in your scripts folder. And the
 ```bash
 npx hardhat run scripts/deploy.js --network localhost
 ```
-connect your metamask to the local network.
+connect your metamask to the local network and you are good to go 🎉.
